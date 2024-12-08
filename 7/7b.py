@@ -1,6 +1,5 @@
 # Solution for Day 7, Part B
 
-# Solution for Day 7, Part A
 
 def checkIfPossible(expected, curr, index, parts):
     if index == len(parts) - 1:
